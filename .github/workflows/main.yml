@@ -32,4 +32,3 @@ jobs:
 
       - name: Run automated tests
         run: dotnet test RaceDay.Api.Tests.csproj --configuration Release
-```
